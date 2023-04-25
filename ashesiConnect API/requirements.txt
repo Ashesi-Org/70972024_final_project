@@ -1,0 +1,8 @@
+Flask
+MarkupSafe
+Werkzeug
+itsdangerous
+colorama
+click
+firestore
+# smtplib
